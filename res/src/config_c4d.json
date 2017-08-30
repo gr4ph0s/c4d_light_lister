@@ -1,0 +1,30 @@
+{
+    "c4d": {
+        "layer": true, 
+        "visibilityRadius": true, 
+        "useVisibility": true, 
+        "enableViewport": true, 
+        "shadowDensity": true, 
+        "select": false, 
+        "ambiantIllumination": true, 
+        "noIllumination": false, 
+        "shadowMinSample": true, 
+        "shadowColor": true, 
+        "shadowAccuracy": true, 
+        "decayRadius": true, 
+        "shadowUse": true, 
+        "giIllumination": false, 
+        "lightColor": true, 
+        "shadowMaxSample": true, 
+        "useDecay": true, 
+        "shadowBias": true, 
+        "diffuse": false, 
+        "name": false, 
+        "visibilityPercent": true, 
+        "shadowResolution": true, 
+        "lightType": true, 
+        "specular": false, 
+        "lightIntensity": true, 
+        "enableRender": true
+    }
+}
