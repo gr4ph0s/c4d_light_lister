@@ -14,7 +14,7 @@ You can download the actual version on github or if you prefer a zip [here](http
 - List all c4d lights
 - Acces to all light parameter throught an UI
 - Easily choose wich parameter to display in the UI
-- Order light independant from the scene order
+- Order lights independantly from the scene order
 
 ## About source code
 My initial idea was to do a lights lister for any render engine. 
