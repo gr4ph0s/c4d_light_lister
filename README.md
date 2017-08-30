@@ -5,10 +5,16 @@ A light lister for Cinema 4D, note this project is a bit old, don't judge my cod
 Even if this video is the redshift light lister it's the same for c4d(with c4d parameter ofc), when I will have some time I will make a proper video for this version.
 [Redshift C4D Light Lister](https://vimeo.com/213734948)
 
-## Release
+## Download
 You can download the actual version on github or if you prefer a zip [here](http://graphos.xyz/files/Plugin/graph_c4d_lightlister/graph_c4d_lightlister.zip)
 - Unizip in your c4d plugin folder
 - Enjoy !
+
+## Features
+- List all c4d lights
+- Acces to all light parameter throught an UI
+- Easily choose wich parameter to display in the UI
+- Order light independant from the scene order
 
 ## About source code
 My initial idea was to do a lights lister for any render engine. 
